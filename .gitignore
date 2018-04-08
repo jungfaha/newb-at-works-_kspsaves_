@@ -1,7 +1,8 @@
 # KSP Save Ignore List #
 .git/**
 "bug fixer"/**
-"kerbal master"/**
+kerbal\ master/
 Sandbox/**
 "JungC [JV]"/**
 Backup/**
+My\ FolderName/**
